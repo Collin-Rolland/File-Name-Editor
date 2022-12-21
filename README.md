@@ -6,7 +6,7 @@ This is a custom script that I developed during my internship at Electrex Inc, u
 
 The script is designed to changes the file names in a production folder that Electrex uses to make the names more uniform, as there were many entry errors over the years. The company needed these file names uniform and consistent in order to use in further developmental projects. I learned many things throughout this process, Stack Overflow was often used as a reference as I met many challenges along the way.
 
-The company will automate this script to run every night, to get rid of any entry error in their production folders.
+The company will automate this script to run every night to get rid of any entry error in their production folders.
 
 Here is the link to the script: https://github.com/Collin-Rolland/File-Name-Editor/blob/main/productiondrawingrename.py
 
