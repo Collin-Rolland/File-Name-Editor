@@ -8,9 +8,9 @@ The script is designed to changes the file names in a production folder that Ele
 
 The company will automate this script to run every night, to get rid of any entry error in their production folders.
 
-Here is the link to the script:https://github.com/Collin-Rolland/File-Name-Editor/blob/main/productiondrawingrename.py
+Here is the link to the script: https://github.com/Collin-Rolland/File-Name-Editor/blob/main/productiondrawingrename.py
 
-Here is a folder of similar file names I was trying to fix, test the script out:
+Here is a folder of similar file names I was trying to fix, test the script out: https://github.com/Collin-Rolland/File-Name-Editor/blob/main/Test%20folder.zip
 
 # Problems Encountered
 
